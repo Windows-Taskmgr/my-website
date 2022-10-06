@@ -14,8 +14,8 @@
 
 |html文件|/index.html|/video.html|/error.html|
 |-|-|-|-|
-|css文件|/css/index.css|/css/~~video.css~~|/css/error.css|
-|js文件|/~~js/index.js~~|/~~js/video.js~~|/js/error.css|
+|css文件|/css/index.css|~~/css/video.css~~|/css/error.css|
+|js文件|~~/js/index.js~~|/~~/js/video.js~~|/js/error.css|
 |jpg文件|/img/taskmgr.jpg|无|/img/404.jpg|
 
 **现在有一个问题，error.html还无法用于别人输入不正确的网站来使用，知道的欢迎在issue中告诉我呀！**
