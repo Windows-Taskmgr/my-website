@@ -13,7 +13,7 @@
 **注：划~~删除线~~的是暂时无用文件**
 
 |html文件|/index.html|/video.html|/error.html|
-|-|-|-|-|
+|:-:|:-:|:-:|:-:|
 |css文件|/css/index.css|~~/css/video.css~~|/css/error.css|
 |js文件|~~/js/index.js~~|~~/js/video.js~~|/js/error.css|
 |jpg文件|/img/taskmgr.jpg|无|/img/404.jpg|
